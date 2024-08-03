@@ -21,4 +21,3 @@ calci(9, 8, (a,b)=>{
 
 // Callback Hell: nested callbacks stacked below one another forming apyramid structure. 
 // nesting
-
